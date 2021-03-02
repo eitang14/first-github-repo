@@ -1,2 +1,3 @@
-blabla bla
-bibo
+import requests
+
+requests.get("https://github.com")
